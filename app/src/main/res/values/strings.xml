@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tomato Restaurant</string>
+    <string name="txtSplash">WELCOME TO TOMATO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="txtNavHeader">TOMATO RESTAURANT</string>
+    <string name="contentDesc">logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtMainFrag_title">TOMATO restaurant</string>
+    <string name="txtmainFrag2">Italian Restaurant</string>
+    <string name="txtShoppingMainf">Shopping</string>
+    <string name="txtSaleMainf">Sale</string>
+    <string name="txtOrderMainf">My Order</string>
+    <string name="txtCardMainf">Card</string>
+    <string name="txtLocationMainf">Location</string>
+    <string name="txtContactMainf">Contact Us</string>
+    <string name="title_activity_google_map">Map</string>
+    <string name="txtTotalCostHint">Total Cost</string>
+    <string name="txtOredrDate">You Ordered at 2020/09/18</string>
+    <string name="txtOredrStatus">We take your order, it may take 2-3 day</string>
+</resources>

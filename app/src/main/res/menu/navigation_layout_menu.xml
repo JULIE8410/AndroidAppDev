@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/drawer_home_icon"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/drawer_bullet_icon"
+            android:title="Shop" />
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/drawer_card_icon"
+            android:title="Cart" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/drawer_order_icon"
+            android:title="My Order" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/drawer_find_location_icon"
+            android:title="Find Location" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/drawer_contact_us_icon"
+            android:title="Contact Us" />
+
+
+    </group>
+
+
+</menu>

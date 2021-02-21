@@ -1,8 +1,8 @@
 # AndroidAppDev
-Development of a Food Ordering Application : Tomato Restaurant
+ - Development of a Food Ordering Application : Tomato Restaurant
 
 # The purpose of the application
-The food ordering application is an online mobile application on android platform. The purpose of this app is to provide an online platform for small and medium restaurant owners who can provide better customer service and reduce the commission fee.
+ - The food ordering application is an online mobile application on android platform. The purpose of this app is to provide an online platform for small and medium restaurant owners who can provide better customer service and reduce the commission fee.
 
 # Development Environment
  - Development Tool
@@ -13,7 +13,7 @@ The food ordering application is an online mobile application on android platfor
  - API : Google Maps APIs
 
 # Project Description
-In this application, we implemented the program that several fragments communicate each other, centering on Main Activity. The application includes three activities and six fragments.
+ - In this application, we implemented the program that several fragments communicate each other, centering on Main Activity. The application includes three activities and six fragments.
 
 # Program Specification
  - Program Scope
